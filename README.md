@@ -13,5 +13,5 @@ _Incluye el archivo '.css' o '.min.css' dentro de tu carpeta de proyecto_
 _Tambien se puede usar el raw de github para no descargar el archivo_
 
 ```
-<link rel="stylesheet" href="https://raw.githubusercontent.com/danidoble/dobleColorsCss/master/doblecolors.min.css" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/danidoble/dobleColorsCss@master/doblecolors.min.css" crossorigin="anonymous">
 ```
