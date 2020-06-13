@@ -25,6 +25,9 @@
 /**
 *	DANIDOBLE COLORS
 */
+.bg-dd-orange-400{
+    background-color: #ff8c00!important;
+}
 .bg-dd-black-900{
 	background-color: #111111!important;
 }
@@ -470,6 +473,9 @@
 /**
 *   DANIDOBLE COLORS
 */
+.text-dd-orange-400{
+    color: #ff8c00!important;
+}
 .text-dd-black-900{
     color: #111111!important;
 }
@@ -910,6 +916,9 @@
 /**
 *   DANIDOBLE COLORS
 */
+.border-dd-orange-400{
+    border-color: #ff8c00!important;
+}
 .border-dd-black-900{
     border-color: #111111!important;
 }
