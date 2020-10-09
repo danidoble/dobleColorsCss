@@ -1,0 +1,35 @@
+/**
+*	BOOTSTRAP 4 COLORS
+*/
+.btn-bs-primary{
+  background-color: $bs_primary+$important;
+  color: $_white;
+}
+.btn-bs-secondary{
+  background-color: $bs_secondary+$important;
+  color: $_white;
+}
+.btn-bs-success{
+  background-color: $bs_success+$important;
+  color: $_white;
+}
+.btn-bs-danger{
+  background-color: $bs_danger+$important;
+  color: $_white;
+}
+.btn-bs-warning{
+  background-color: $bs_warning+$important;
+  color: $_white;
+}
+.btn-bs-info{
+  background-color: $bs_info+$important;
+  color: $_white;
+}
+.btn-bs-light{
+  background-color: $bs_light+$important;
+  color: $_black;
+}
+.btn-bs-dark{
+  background-color: $bs_dark+$important;
+  color: $_white;
+}

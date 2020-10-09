@@ -3,15 +3,22 @@ Librería CSS de colores de fondo y texto
 
 _Su funcion es ayudar a tener una amplia gama de colores para poder elegir a la hora de estar codificando en frontend_
 
-## Instalacion
+## Instalación
+### NPM
+```npm i ddcolors```
+
+### CDN 
+_Puedes hacer uso de esta libreria imcluyendo el archivo en tu Head del HTML_
+
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/danidoble/dobleColorsCss@master/dist/css/doblecolors.min.css" crossorigin="anonymous">
+```
+
+
+### Local
 _Incluye el archivo '.css' o '.min.css' dentro de tu carpeta de proyecto_
 
 ```
 <link rel="stylesheet" href="doblecolors.min.css">
 ```
 
-_Tambien se puede usar el raw de github para no descargar el archivo_
-
-```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/danidoble/dobleColorsCss@master/doblecolors.min.css" crossorigin="anonymous">
-```

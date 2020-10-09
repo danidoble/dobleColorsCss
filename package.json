@@ -1,0 +1,27 @@
+{
+  "name": "ddcolors",
+  "version": "1.0.0",
+  "description": "Library of colors css",
+  "main": "dist/main.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danidoble/dobleColorsCss.git"
+  },
+  "keywords": [
+    "colors",
+    "scss",
+    "doblecolorscss"
+  ],
+  "author": "Daniel Sandoval Aka. danidoble",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danidoble/dobleColorsCss/issues"
+  },
+  "homepage": "https://github.com/danidoble/dobleColorsCss#readme"
+}

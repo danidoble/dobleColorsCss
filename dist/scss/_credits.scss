@@ -1,0 +1,7 @@
+.credits{
+  font-size: $credits_font_size;
+  color: $credits_txt_color;
+}
+.credits:before{
+  content: 'Created by danidoble';
+}

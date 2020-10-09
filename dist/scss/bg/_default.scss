@@ -1,0 +1,18 @@
+/**
+*	Default
+*/
+.bg-black{
+  background-color: $_black+$important;
+}
+.bg-white{
+  background-color: $_white+$important;
+}
+.bg-transparent{
+  background-color: $_transparent+$important;
+}
+.bg-semi-transparent{
+  background-color: $_semi_transparent+$important;
+}
+.bg-semi-transparent-white{
+  background-color: $_semi_transparent_white+$important;
+}

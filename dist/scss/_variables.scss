@@ -1,0 +1,164 @@
+//Add Important To All
+//$important: null;
+$important: !important;
+
+//Credits
+$credits_font_size: 0.8rem;
+$credits_txt_color: #4A5568;
+
+/**Defaults*/
+$_black: #000;
+$_white: #fff;
+$_transparent: rgba(0,0,0,0);
+$_semi_transparent: rgba(0,0,0,0.5);
+$_semi_transparent_white: rgba(255,255,255,0.5);
+$_tw_red_100: #fff;
+
+/**DANIDOBLE COLORS*/
+$dd_orange-400: #ff8c00;
+$dd_black-900: #111111;
+$dd_black-800: #222222;
+$dd_white-100: #f7f7f7;
+$dd_white-200: #f0f0f0;
+$dd_blue_grey_100: #cfd8dc;
+$dd_blue_grey_200: #b0bec5;
+$dd_blue_grey_300: #90a4ae;
+$dd_blue_grey_400: #78909c;
+$dd_blue_grey_500: #607d8b;
+$dd_blue_grey_600: #546e7a;
+$dd_blue_grey_700: #455a64;
+$dd_blue_grey_800: #37474f;
+$dd_blue_grey_900: #263238;
+$dd_material_red: #F44336;
+$dd_material_pink: #E91E63;
+$dd_material_purple: #9C27B0;
+$dd_material_purple_deep: #673AB7;
+$dd_material_indigo: #3F51B5;
+$dd_material_blue: #2196F3;
+$dd_material_blue_light: #03A9F4;
+$dd_material_cyan: #00BCD4;
+$dd_material_teal: #009688;
+$dd_material_green: #4CAF50;
+$dd_material_green_light: #8BC34A;
+$dd_material_lime: #CDDC39;
+$dd_material_yellow: #FFEB3B;
+$dd_material_amber: #FFC107;
+$dd_material_orange: #FF9800;
+$dd_material_orange_deep: #FF5722;
+$dd_material_brown: #795548;
+$dd_material_grey: #9E9E9E;
+$dd_material_blue_grey: #607D8B;
+
+/**Tailwind*/
+$tw_gray_100: #F7FAFC;
+$tw_gray_200: #EDF2F7;
+$tw_gray_300: #E2E8F0;
+$tw_gray_400: #CBD5E0;
+$tw_gray_500: #A0AEC0;
+$tw_gray_600: #718096;
+$tw_gray_700: #4A5568;
+$tw_gray_800: #2D3748;
+$tw_gray_900: #1A202C;
+
+$tw_red_100: #FFF5F5;
+$tw_red_200: #FED7D7;
+$tw_red_300: #FEB2B2;
+$tw_red_400: #FC8181;
+$tw_red_500: #F56565;
+$tw_red_600: #E53E3E;
+$tw_red_700: #C53030;
+$tw_red_800: #9B2C2C;
+$tw_red_900: #742A2A;
+
+$tw_orange_100: #FFFAF0;
+$tw_orange_200: #FEEBC8;
+$tw_orange_300: #FBD38D;
+$tw_orange_400: #F6AD55;
+$tw_orange_500: #ED8936;
+$tw_orange_600: #DD6B20;
+$tw_orange_700: #C05621;
+$tw_orange_800: #9C4221;
+$tw_orange_900: #7B341E;
+
+$tw_yellow_100: #FFFFF0;
+$tw_yellow_200: #FEFCBF;
+$tw_yellow_300: #FAF089;
+$tw_yellow_400: #F6E05E;
+$tw_yellow_500: #ECC94B;
+$tw_yellow_600: #D69E2E;
+$tw_yellow_700: #B7791F;
+$tw_yellow_800: #975A16;
+$tw_yellow_900: #744210;
+
+$tw_green_100: #F0FFF4;
+$tw_green_200: #C6F6D5;
+$tw_green_300: #9AE6B4;
+$tw_green_400: #68D391;
+$tw_green_500: #48BB78;
+$tw_green_600: #38A169;
+$tw_green_700: #2F855A;
+$tw_green_800: #276749;
+$tw_green_900: #22543D;
+
+$tw_teal_100: #E6FFFA;
+$tw_teal_200: #B2F5EA;
+$tw_teal_300: #81E6D9;
+$tw_teal_400: #4FD1C5;
+$tw_teal_500: #38B2AC;
+$tw_teal_600: #319795;
+$tw_teal_700: #2C7A7B;
+$tw_teal_800: #285E61;
+$tw_teal_900: #234E52;
+
+$tw_blue_100: #EBF8FF;
+$tw_blue_200: #BEE3F8;
+$tw_blue_300: #90CDF4;
+$tw_blue_400: #63B3ED;
+$tw_blue_500: #4299E1;
+$tw_blue_600: #3182CE;
+$tw_blue_700: #2B6CB0;
+$tw_blue_800: #2C5282;
+$tw_blue_900: #2A4365;
+
+$tw_indigo_100: #EBF4FF;
+$tw_indigo_200: #C3DAFE;
+$tw_indigo_300: #A3BFFA;
+$tw_indigo_400: #7F9CF5;
+$tw_indigo_500: #667EEA;
+$tw_indigo_600: #5A67D8;
+$tw_indigo_700: #4C51BF;
+$tw_indigo_800: #434190;
+$tw_indigo_900: #3C366B;
+
+$tw_purple_100: #FAF5FF;
+$tw_purple_200: #E9D8FD;
+$tw_purple_300: #D6BCFA;
+$tw_purple_400: #B794F4;
+$tw_purple_500: #9F7AEA;
+$tw_purple_600: #805AD5;
+$tw_purple_700: #6B46C1;
+$tw_purple_800: #553C9A;
+$tw_purple_900: #44337A;
+
+$tw_pink_100: #FFF5F7;
+$tw_pink_200: #FED7E2;
+$tw_pink_300: #FBB6CE;
+$tw_pink_400: #F687B3;
+$tw_pink_500: #ED64A6;
+$tw_pink_600: #D53F8C;
+$tw_pink_700: #B83280;
+$tw_pink_800: #97266D;
+$tw_pink_900: #702459;
+
+
+
+/**Bootstrap*/
+$bs_primary: #007bff;
+$bs_secondary: #6c757d;
+$bs_success: #28a745;
+$bs_danger: #dc3545;
+$bs_warning: #ffc107;
+$bs_info: #17a2b8;
+$bs_light: #f8f9fa;
+$bs_dark: #343a40;
+

@@ -1,0 +1,23 @@
+/**
+*	Default
+*/
+.btn-black{
+  background-color: $_black+$important;
+  color: $_white;
+}
+.btn-white{
+  background-color: $_white+$important;
+  color: $_black;
+}
+.btn-transparent{
+  background-color: $_transparent+$important;
+  color: $_black;
+}
+.btn-semi-transparent{
+  background-color: $_semi_transparent+$important;
+  color: $_white;
+}
+.btn-semi-transparent-white{
+  background-color: $_semi_transparent_white+$important;
+  color: $_black;
+}

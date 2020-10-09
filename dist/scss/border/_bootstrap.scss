@@ -1,0 +1,27 @@
+/**
+*	BOOTSTRAP 4 COLORS
+*/
+.border-bs-primary{
+  border-color: $bs_primary+$important;
+}
+.border-bs-secondary{
+  border-color: $bs_secondary+$important;
+}
+.border-bs-success{
+  border-color: $bs_success+$important;
+}
+.border-bs-danger{
+  border-color: $bs_danger+$important;
+}
+.border-bs-warning{
+  border-color: $bs_warning+$important;
+}
+.border-bs-info{
+  border-color: $bs_info+$important;
+}
+.border-bs-light{
+  border-color: $bs_light+$important;
+}
+.border-bs-dark{
+  border-color: $bs_dark+$important;
+}

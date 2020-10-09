@@ -1,0 +1,18 @@
+/**
+*	Default
+*/
+.border-black{
+  border-color: $_black+$important;
+}
+.border-white{
+  border-color: $_white+$important;
+}
+.border-transparent{
+  border-color: $_transparent+$important;
+}
+.border-semi-transparent{
+  border-color: $_semi_transparent+$important;
+}
+.border-semi-transparent-white{
+  border-color: $_semi_transparent_white+$important;
+}

@@ -1,0 +1,18 @@
+/**
+*	Default
+*/
+.txt-black{
+  color: $_black+$important;
+}
+.txt-white{
+  color: $_white+$important;
+}
+.txt-transparent{
+  color: $_transparent+$important;
+}
+.txt-semi-transparent{
+  color: $_semi_transparent+$important;
+}
+.txt-semi-transparent-white{
+  color: $_semi_transparent_white+$important;
+}
