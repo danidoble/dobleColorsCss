@@ -1,6 +1,6 @@
 {
   "name": "ddcolors",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Library of colors css",
   "main": "dist/main.js",
   "directories": {
