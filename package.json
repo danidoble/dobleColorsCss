@@ -7,7 +7,8 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node-sass dist/scss -o dist/css --source-map true && node-sass dist/css/doblecolors.css dist/css/doblecolors.min.css --output-style compressed --source-map true && node-sass dist/css/doblecolorsInverted.css dist/css/doblecolorsInverted.min.css --output-style compressed --source-map true"
   },
   "repository": {
     "type": "git",
